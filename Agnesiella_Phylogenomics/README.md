@@ -13,10 +13,10 @@ This study explores the phylogenomic discordance and evolutionary history of the
 ## Scripts Overview
 
 The scripts include:
-- Data preprocessing and filtering
-- Phylogenetic tree construction
-- Discordance analysis
-- Visualization of results
+- Genome Assembly
+- Maker Extraction and Dataset Generation
+- QuIBL Analysis
+- Variant Calling and Filtering
 
 For more details on each script, refer to the comments within the individual files in the [scripts directory](https://github.com/WJJ-97/Phylogenomics/tree/main/scripts).
 
@@ -26,11 +26,7 @@ For more details on each script, refer to the comments within the individual fil
 
 If you use these scripts in your research, please cite the original study:
 
-**Title**: Extensive phylogenomic discordance and the complex evolutionary history of the leafhopper genus *Agnesiella*  
-**Authors**: [Author Names Here]  
-**Year**: 2025  
-**Journal**: [Journal Name Here]  
-**DOI**: [Insert DOI Here]
+
 
 ---
 
