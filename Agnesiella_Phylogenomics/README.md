@@ -1,7 +1,7 @@
-# Extensive Phylogenomic Discordance and the Complex Evolutionary History of the Leafhopper Genus *Agnesiella* (Hemiptera: Cicadellidae: Typhlocybinae)
+# Extensive hybridization and complex evolutionary history in the leafhopper genus *Agnesiella* (Hemiptera: Cicadellidae: Typhlocybinae)
 
 This repository contains all scripts used in the study:  
-**"Extensive phylogenomic discordance and the complex evolutionary history of the leafhopper genus *Agnesiella* (Hemiptera: Cicadellidae: Typhlocybinae)."**
+**"Extensive hybridization and complex evolutionary history in the leafhopper genus *Agnesiella* (Hemiptera: Cicadellidae: Typhlocybinae)."**
 
 You can find the scripts in the following directory:  
 [Phylogenomics/scripts](https://github.com/WJJ-97/Phylogenomics/tree/main/scripts)
