@@ -5,9 +5,10 @@
 This study explores the phylogenomic discordance and evolutionary history of the leafhopper genus *Agnesiella*, providing insights into its complex speciation and divergence processes. The scripts in this repository were used to process data, analyze results, and generate figures for this research.
 
 The scripts utilized in the study are available in the following directory:  
-[Phylogenomics/scripts](https://github.com/WJJ-97/Phylogenomics/tree/main/scripts)
+[Phylogenomics/Scripts](https://github.com/WJJ-97/Phylogenomics/tree/main/Scripts)
 
-
+The phylogenetic trees from this study are available in the following directory:
+[Phylogenomics/Phylogenetic Trees](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Phylogenetic%20Trees))
 ---
 
 ## Citation
