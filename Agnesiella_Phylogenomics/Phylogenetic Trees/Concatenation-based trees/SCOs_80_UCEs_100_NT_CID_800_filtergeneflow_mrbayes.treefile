@@ -1,0 +1,115 @@
+#NEXUS
+[ID: 2003181263]
+begin taxa;
+	dimensions ntax=48;
+	taxlabels
+		amurta_sp
+		antiqua_cangshan
+		apiculata_cengwanglao
+		azra_ailao
+		biprotrusa_huanglian
+		bupa_motuo
+		chelata_lincang
+		crucifera_cangshan
+		digita_xiaojie
+		ela_cangshan
+		eleganta_gengda
+		elongata_bingchayu
+		erosa1_tangjia
+		erosa_fengtong
+		furca_taiyang
+		galeata_dulongjiang
+		gaura_moxi
+		glabra_lengmu
+		hamaculeata_bingzhongluo
+		hastata_cangshan
+		innota_guomen
+		irma1_cangshan
+		irma_cangshan
+		jugl1_liuba
+		jugl_huangniu
+		kamala_gulang
+		lata_guomen
+		lidia_xinzhu
+		longisagittata_moxi
+		marginata_lincang
+		mitrata_guodao
+		nigroflava_liziping
+		ogromna1_xinzhu
+		ogromna_cangshan
+		olena_liziping
+		polita_emei
+		protensa_lengmu
+		quinquemaculata_bingzhongluo
+		recurva_tangjia
+		rita_nankang
+		roxana_huanglian
+		savita_motuo
+		singuliprotrusa_xujiaba
+		sinuata_xishan
+		sp1_liuba
+		sp2_laojun
+		sp3_ailao
+		xantha_xinzhu
+		;
+end;
+begin trees;
+	translate
+		1	amurta_sp,
+		2	antiqua_cangshan,
+		3	apiculata_cengwanglao,
+		4	azra_ailao,
+		5	biprotrusa_huanglian,
+		6	bupa_motuo,
+		7	chelata_lincang,
+		8	crucifera_cangshan,
+		9	digita_xiaojie,
+		10	ela_cangshan,
+		11	eleganta_gengda,
+		12	elongata_bingchayu,
+		13	erosa1_tangjia,
+		14	erosa_fengtong,
+		15	furca_taiyang,
+		16	galeata_dulongjiang,
+		17	gaura_moxi,
+		18	glabra_lengmu,
+		19	hamaculeata_bingzhongluo,
+		20	hastata_cangshan,
+		21	innota_guomen,
+		22	irma1_cangshan,
+		23	irma_cangshan,
+		24	jugl1_liuba,
+		25	jugl_huangniu,
+		26	kamala_gulang,
+		27	lata_guomen,
+		28	lidia_xinzhu,
+		29	longisagittata_moxi,
+		30	marginata_lincang,
+		31	mitrata_guodao,
+		32	nigroflava_liziping,
+		33	ogromna1_xinzhu,
+		34	ogromna_cangshan,
+		35	olena_liziping,
+		36	polita_emei,
+		37	protensa_lengmu,
+		38	quinquemaculata_bingzhongluo,
+		39	recurva_tangjia,
+		40	rita_nankang,
+		41	roxana_huanglian,
+		42	savita_motuo,
+		43	singuliprotrusa_xujiaba,
+		44	sinuata_xishan,
+		45	sp1_liuba,
+		46	sp2_laojun,
+		47	sp3_ailao,
+		48	xantha_xinzhu
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_all_compat = (1:1.049070e-01,(2:1.202591e-01,8:1.042078e-01)1.000:1.520326e-02,((((((((3:1.264005e-02,((6:8.730055e-03,15:1.008174e-02)1.000:2.200350e-03,((9:1.019408e-02,(16:9.710035e-03,38:1.347705e-02)1.000:2.447958e-03)1.000:1.468239e-03,10:1.035598e-02)1.000:1.124077e-03)1.000:1.878260e-03)1.000:3.888160e-03,17:1.300628e-02)1.000:6.519735e-03,21:2.095273e-02)1.000:2.144539e-03,((((5:1.307230e-02,(35:1.278521e-02,48:1.057124e-02)1.000:1.554672e-03)1.000:1.518266e-03,18:1.150642e-02)1.000:3.008123e-03,((12:1.208389e-02,41:1.304527e-02)1.000:2.663054e-03,43:1.073054e-02)1.000:3.523561e-03)1.000:3.968935e-03,(((((22:6.065665e-03,23:6.734142e-03)1.000:3.862697e-03,42:9.322386e-03)1.000:1.412195e-03,31:9.728380e-03)1.000:3.109872e-03,29:1.231413e-02)1.000:2.574802e-03,47:1.383452e-02)1.000:4.837591e-03)1.000:3.780911e-03)1.000:1.105394e-03,(((4:8.567416e-03,44:8.146045e-03)1.000:1.334759e-02,(7:1.177041e-02,(20:6.403960e-03,40:6.315787e-03)1.000:4.339668e-03)1.000:8.071985e-03)1.000:2.903352e-03,(26:5.750278e-03,28:5.865973e-03)1.000:1.548756e-02)1.000:1.492233e-03)1.000:2.818691e-03,(11:1.878917e-02,((13:4.591656e-03,14:4.042654e-03)1.000:4.840433e-03,27:7.775264e-03)1.000:9.458621e-03)1.000:3.473031e-03)1.000:6.168730e-02,(((((19:1.428274e-02,(((24:5.995889e-03,25:6.452011e-03)1.000:3.374251e-03,37:7.096882e-03)1.000:1.659896e-03,45:7.741742e-03)1.000:2.820001e-03)1.000:1.334155e-03,39:1.199239e-02)1.000:1.177644e-03,(32:1.062861e-02,36:1.255489e-02)1.000:1.761607e-03)1.000:2.256895e-03,46:1.139251e-02)1.000:1.109025e-02,30:2.923550e-02)1.000:5.032329e-02)1.000:1.153140e-02,(33:3.561740e-03,34:3.083869e-03)1.000:8.083026e-02)1.000:1.377470e-02);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (median of the posterior probability density).]
+   tree con_all_compat = (1:1.049070e-01,(2:1.202591e-01,8:1.042078e-01):1.520326e-02,((((((((3:1.264005e-02,((6:8.730055e-03,15:1.008174e-02):2.200350e-03,((9:1.019408e-02,(16:9.710035e-03,38:1.347705e-02):2.447958e-03):1.468239e-03,10:1.035598e-02):1.124077e-03):1.878260e-03):3.888160e-03,17:1.300628e-02):6.519735e-03,21:2.095273e-02):2.144539e-03,((((5:1.307230e-02,(35:1.278521e-02,48:1.057124e-02):1.554672e-03):1.518266e-03,18:1.150642e-02):3.008123e-03,((12:1.208389e-02,41:1.304527e-02):2.663054e-03,43:1.073054e-02):3.523561e-03):3.968935e-03,(((((22:6.065665e-03,23:6.734142e-03):3.862697e-03,42:9.322386e-03):1.412195e-03,31:9.728380e-03):3.109872e-03,29:1.231413e-02):2.574802e-03,47:1.383452e-02):4.837591e-03):3.780911e-03):1.105394e-03,(((4:8.567416e-03,44:8.146045e-03):1.334759e-02,(7:1.177041e-02,(20:6.403960e-03,40:6.315787e-03):4.339668e-03):8.071985e-03):2.903352e-03,(26:5.750278e-03,28:5.865973e-03):1.548756e-02):1.492233e-03):2.818691e-03,(11:1.878917e-02,((13:4.591656e-03,14:4.042654e-03):4.840433e-03,27:7.775264e-03):9.458621e-03):3.473031e-03):6.168730e-02,(((((19:1.428274e-02,(((24:5.995889e-03,25:6.452011e-03):3.374251e-03,37:7.096882e-03):1.659896e-03,45:7.741742e-03):2.820001e-03):1.334155e-03,39:1.199239e-02):1.177644e-03,(32:1.062861e-02,36:1.255489e-02):1.761607e-03):2.256895e-03,46:1.139251e-02):1.109025e-02,30:2.923550e-02):5.032329e-02):1.153140e-02,(33:3.561740e-03,34:3.083869e-03):8.083026e-02):1.377470e-02);
+end;
