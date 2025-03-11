@@ -8,7 +8,7 @@ The scripts utilized in the study are available in the following directory:
 [Phylogenomics/Scripts](https://github.com/WJJ-97/Phylogenomics/tree/main/Scripts)
 
 The phylogenetic trees from this study are available in the following directory:
-[Phylogenomics/Phylogenetic Trees](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Phylogenetic%20Trees))
+[Phylogenomics/Phylogenetic Trees](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Phylogenetic%20Trees)
 ---
 
 ## Citation
