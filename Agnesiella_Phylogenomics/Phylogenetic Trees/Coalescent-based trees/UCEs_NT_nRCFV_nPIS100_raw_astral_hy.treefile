@@ -1,0 +1,146 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=44;
+	taxlabels
+	amurta_sp
+	antiqua_cangshan
+	apiculata_cengwanglao
+	azra_ailao
+	biprotrusa_huanglian
+	bupa_motuo
+	chelata_lincang
+	crucifera_cangshan
+	digita_xiaojie
+	ela_cangshan
+	eleganta_gengda
+	elongata_bingchayu
+	erosa
+	furca_taiyang
+	galeata_dulongjiang
+	gaura_moxi
+	glabra_lengmu
+	hamaculeata_bingzhongluo
+	hastata_cangshan
+	innota_guomen
+	irma
+	jugl
+	kamala_gulang
+	lata_guomen
+	lidia_xinzhu
+	longisagittata_moxi
+	marginata_lincang
+	mitrata_guodao
+	nigroflava_liziping
+	ogromna
+	olena_liziping
+	polita_emei
+	protensa_lengmu
+	quinquemaculata_bingzhongluo
+	recurva_tangjia
+	rita_nankang
+	roxana_huanglian
+	savita_motuo
+	singuliprotrusa_xujiaba
+	sinuata_xishan
+	sp1_liuba
+	sp2_laojun
+	sp3_ailao
+	xantha_xinzhu
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((antiqua_cangshan:1.0,(amurta_sp:1.0,(ogromna:1.0,(((((((((biprotrusa_huanglian:1.0,xantha_xinzhu:1.0)[&label=0.999398]:0.028781,glabra_lengmu:1.0)[&label=1.0]:0.029361,olena_liziping:1.0)[&label=1.0]:0.233555,((roxana_huanglian:1.0,singuliprotrusa_xujiaba:1.0)[&label=1.0]:0.21829,elongata_bingchayu:1.0)[&label=1.0]:0.281709)[&label=1.0]:0.438172,((((savita_motuo:1.0,irma:1.0)[&label=1.0]:0.068073,mitrata_guodao:1.0)[&label=1.0]:0.34718,longisagittata_moxi:1.0)[&label=1.0]:0.083702,sp3_ailao:1.0)[&label=1.0]:0.651591)[&label=1.0]:0.470358,((((hastata_cangshan:1.0,rita_nankang:1.0)[&label=1.0]:0.674843,chelata_lincang:1.0)[&label=1.0]:1.417834,(sinuata_xishan:1.0,azra_ailao:1.0)[&label=1.0]:2.730668)[&label=1.0]:0.216522,(kamala_gulang:1.0,lidia_xinzhu:1.0)[&label=1.0]:3.657519)[&label=1.0]:0.133847)[&label=1.0]:0.071418,((((((galeata_dulongjiang:1.0,quinquemaculata_bingzhongluo:1.0)[&label=1.0]:0.12673,(digita_xiaojie:1.0,ela_cangshan:1.0)[&label=0.998547]:0.039637)[&label=1.0]:0.060813,(furca_taiyang:1.0,bupa_motuo:1.0)[&label=1.0]:0.092881)[&label=1.0]:0.128543,apiculata_cengwanglao:1.0)[&label=1.0]:0.502166,gaura_moxi:1.0)[&label=1.0]:1.056278,innota_guomen:1.0)[&label=1.0]:0.200714)[&label=1.0]:0.483122,((lata_guomen:1.0,erosa:1.0)[&label=1.0]:1.938846,eleganta_gengda:1.0)[&label=1.0]:0.679485)[&label=1.0]:4.91028,(marginata_lincang:1.0,(sp2_laojun:1.0,(polita_emei:1.0,(((((sp1_liuba:1.0,protensa_lengmu:1.0)[&label=1.0]:0.071135,jugl:1.0)[&label=1.0]:0.465567,recurva_tangjia:1.0)[&label=1.0]:0.11439,hamaculeata_bingzhongluo:1.0)[&label=1.0]:0.098664,nigroflava_liziping:1.0)[&label=1.0]:0.04933)[&label=1.0]:0.180431)[&label=1.0]:1.373117)[&label=1.0]:4.194591)[&label=1.0]:0.307383)[&label=1.0]:0.47443)[&label=1.0]:0.414727):1.0,crucifera_cangshan:1.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=22;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
