@@ -2,21 +2,23 @@
 
 ## About This Study
 
-This study explores the phylogenomic discordance and evolutionary history of the leafhopper genus *Agnesiella*, providing insights into its complex speciation and divergence processes. The scripts in this repository were used to process data, analyze results, and generate figures for this research.
+This study delves into the phylogenomic discordance and complex evolutionary history of the leafhopper genus *Agnesiella*, aiming to unravel the mysteries of its speciation and divergence processes. This repository contains the scripts used for data processing, result analysis, and figure generation in this research.
 
-The scripts utilized in the study are available in the following directory:  
-[Phylogenomics/Scripts](https://github.com/WJJ-97/Phylogenomics/tree/main/Scripts)
+The scripts used in this study are located in the following directory:
 
-The phylogenetic trees from this study are available in the following directory:
-[Phylogenomics/Phylogenetic Trees](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Phylogenetic%20Trees)
+[**Scripts Directory**](https://github.com/WJJ-97/Phylogenomics/tree/main/Scripts)
+
+The phylogenetic trees generated from this study are located in the following directory:
+
+[**Phylogenetic Trees Directory**](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Phylogenetic%20Trees)
+
 ---
 
 ## Citation
 
-If you use these scripts in your research, please cite the original study:
-
-
+If you use the scripts in this repository for your research, please cite the original research paper (citation information will be added here upon publication).
 
 ---
 
-For any questions or issues, please feel free to [open an issue](https://github.com/WJJ-97/Phylogenomics/issues) or contact the repository maintainer.
+If you have any questions or issues, please feel free to [**Submit Issue**](https://github.com/WJJ-97/Phylogenomics/issues) or contact the repository maintainer.
+
