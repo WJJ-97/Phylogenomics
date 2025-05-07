@@ -7,7 +7,7 @@ This study delves into the phylogenomic discordance and complex evolutionary his
 
 The scripts used in this study are located in the following directory:
 
-[**Scripts Directory**](https://github.com/WJJ-97/Phylogenomics/tree/main/Scripts)
+[**Scripts Directory**](https://github.com/WJJ-97/Phylogenomics/tree/main/Agnesiella_Phylogenomics/Scripts)
 
 The phylogenetic trees generated from this study are located in the following directory:
 
