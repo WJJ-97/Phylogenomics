@@ -3,4 +3,4 @@ This repository makes available the phylogenetic trees resulting from the study:
 The repository includes two main categories of phylogenetic trees:
 - **Coalescent-based trees:**  Trees inferred using ASTRAL-Hybrid, accounting for gene tree discordance.
 - **Concatenation-based trees:** Trees inferred from concatenated datasets.
-
+- **Alignments:** Concatenated datasets and Partition files.
