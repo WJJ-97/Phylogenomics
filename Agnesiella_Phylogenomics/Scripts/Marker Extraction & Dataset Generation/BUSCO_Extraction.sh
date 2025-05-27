@@ -3,9 +3,10 @@
 #2023.06.28 by DSY
 #2024.12.31 by WJJ
 
-# Exit immediately if a command exits with a non-zero status.
-# Treat unset variables as an error when substituting.
-# Exit immediately if a command in a pipeline fails.
+# Script: BUSCO Single-Copy Loci Extractor and Filter
+# Description: This script processes BUSCO results to extract single-copy orthologs,
+#              merges them by locus, and filters out loci with insufficient taxa.
+
 set -euo pipefail
 
 # --- Usage ---
