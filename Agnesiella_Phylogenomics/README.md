@@ -21,7 +21,6 @@ If you use the scripts in this repository for your research, please cite the ori
 
 Wang, J., Zhou, X., Dietrich, C.H., Cao,  Y. & Huang, M. (2025) Extensive hybridisation and complex  evolutionary history in the leafhopper genus *Agnesiella* (Hemiptera: Cicadellidae: Typhlocybinae). *Systematic Entomology*, 50(4), 903–919.
 https://doi.org/  10.1111/syen.12686
----
 
 If you have any questions or issues, please feel free to [**Submit Issue**](https://github.com/WJJ-97/Phylogenomics/issues) or contact the repository maintainer.
 
